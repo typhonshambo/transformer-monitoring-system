@@ -10,8 +10,8 @@
 BlynkTimer timer;
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "lol";
-char pass[] = "lolbc310@123";
+char ssid[] = "";
+char pass[] = "";
 
 //Temp. Humidity sensor
 #include <DHT.h>
