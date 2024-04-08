@@ -1,7 +1,7 @@
 //auth
 #define BLYNK_TEMPLATE_ID "TMPL2VDCRCY49"
 #define BLYNK_TEMPLATE_NAME "temp and hum monitor"
-#define BLYNK_AUTH_TOKEN "_SnBGLdgB8rR3oi78E9VjumqvOFwymHN"
+#define BLYNK_AUTH_TOKEN ""
 //blynk imports
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
